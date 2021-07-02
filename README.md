@@ -9,3 +9,5 @@
 Sample run with depth = 4 where white player is user, and black player is Chess AI agent: 
 
 <img src="https://user-images.githubusercontent.com/54603828/124211605-65683600-dabb-11eb-8954-36ca3be5b1bf.jpg" width="450" height="350">
+
+To use the system Simply run the Chess project forked class which has main class. Enter the depth of the MIN-MAX tree for cut-off, ideal depth 4 or 5 in the console. After entering depth java pane with title "AI chess" will open, click in the screen to refresh mouse listener. To move the piece press and hold and move to desired location. Wait for opponent and then again take your turn.
