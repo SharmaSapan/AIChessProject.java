@@ -1,0 +1,11 @@
+ Sapan Sharma
+ 6352819
+
+/**
+     * Simply run the Chess project class which has main class. Enter the depth of the MIN-MAX tree for cutoff
+     * ideal depth 4 or 5 in the console
+     * After entering depth java pane with title "AI chess" will open
+     * click in the screen to refresh mouse listener. To move the piece press and hold and move to desired location
+     * Wait for opponent and then again take your turn.
+     * acknowledgement to https://www.chessprogramming.org/Simplified_Evaluation_Function for piece square value
+*/
